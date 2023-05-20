@@ -1,0 +1,1 @@
+clash bash test
